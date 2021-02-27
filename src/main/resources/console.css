@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+body {
+  background-color: #212F3C;
+}
+
+p {
+  font-family: Consolas;
+  color: #85C1E9;
+}
+
+div {
+  font-family: Consolas;
+  color: #85C1E9;
+}
+
+.listBasic { 
+	list-style: none;
+}
+
+table {
+  /*color: #85C1E9;*/
+  font-family: Consolas;
+  border-spacing: 0.5rem;
+}
+
+td {
+  padding: 0.5rem;
+}
+
+
+tr:nth-child(odd) { background: hsl(170, 70%, 50%);}
+tr:nth-child(even) { background: hsl(180, 50%, 50%);}
+
+/*td:nth-child(even) { background: hsl(150, 50%, 50%); }
+tr:nth-child(even) { background: hsl(160, 60%, 50%);}
+
+td:nth-child(odd) { background: hsl(190, 90%, 50%); }
+tr:nth-child(odd) { background: hsl(200, 99%, 50%) }*/
+/*
+td:nth-child(1) { background: hsl(150, 50%, 50%); }
+td:nth-child(2) { background: hsl(160, 60%, 50%); }
+td:nth-child(3) { background: hsl(170, 70%, 50%); }
+td:nth-child(4) { background: hsl(180, 80%, 50%); }
+td:nth-child(5) { background: hsl(190, 90%, 50%); }
+td:nth-child(6) { background: hsl(200, 99%, 50%); }
+*/

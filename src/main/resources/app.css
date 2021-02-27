@@ -1,0 +1,23 @@
+.text-area .content {
+	-fx-background-color: #212F3C;
+}
+
+.text-area {
+	-fx-text-fill: #85C1E9;
+	-fx-font-smoothing-type: lcd;
+}
+
+.text-input {
+	-fx-background-color: #212F3C;
+	-fx-text-fill: #85C1E9;
+}
+
+.label {
+	-fx-background-color: #212F3C;
+	-fx-text-fill: #85C1E9;
+}
+
+#bottombox {
+	-fx-background-color: #212F3C;
+	-fx-text-fill: #85C1E9;
+}
