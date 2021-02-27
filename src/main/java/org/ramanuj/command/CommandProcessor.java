@@ -45,6 +45,7 @@ public class CommandProcessor {
 				ConsoleUtil.clearConsole(webEngine);
 				break;
 			case pwd:
+				System.out.println("current working directory");
 				ConsoleUtil.clearConsole(webEngine);
 				break;
 			default:
